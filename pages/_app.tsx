@@ -74,7 +74,7 @@ export default function App({ Component, pageProps }: AppProps) {
             bottom: 20,
             size: "medium",
             iconColor: "white",
-            customIconSrc: "https://cdn.shopify.com/s/files/1/0693/4328/1426/files/moodmnky-flowise-react-icon-blue.svg",
+            customIconSrc: "https://cdn.shopify.com/s/files/1/0693/4328/1426/files/moodmnky-flowise-react-icon-sctc.svg",
           },
           chatWindow: {
             welcomeMessage: "Welcome back SCTC Crew! How may I be of service?",
