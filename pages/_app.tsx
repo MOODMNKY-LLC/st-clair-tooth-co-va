@@ -78,13 +78,13 @@ export default function App({ Component, pageProps }: AppProps) {
           },
           chatWindow: {
             welcomeMessage: "Welcome back SCTC Crew! How may I be of service?",
-            backgroundColor: "#191919",
+            backgroundColor: "#2F3437",
             height: 700,
             width: 400,
             fontSize: 16,
-            poweredByTextColor: "#191919",
+            poweredByTextColor: "#2F3437",
             botMessage: {
-              backgroundColor: "#191919",
+              backgroundColor: "#2F3437",
               textColor: "#FFFFFF",
               showAvatar: true,
               avatarSrc: "https://cdn.discordapp.com/attachments/1083532452347269220/1198295723679154316/5bda0b7be46cb971021b7630_sctc-logos-03_1_1.png",
@@ -97,7 +97,7 @@ export default function App({ Component, pageProps }: AppProps) {
             },
             textInput: {
               placeholder: "Type your question",
-              backgroundColor: "#191919",
+              backgroundColor: "#2F3437",
               textColor: "#ffffff",
               sendButtonColor: "#172447",
             }
